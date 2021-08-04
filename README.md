@@ -11,4 +11,4 @@ robot head has been cutted to fit a screen on it to show the facial features. Th
 base, this base will make the robot move. Also, in this repository you will find the STL file for the drawn parts and the STL file
 for the robot assembly. The next figure shows the robot four views.
 
-![image](https://user-images.githubusercontent.com/86316556/128218794-2031420d-a3f7-4142-857e-0c9b8f062e38.png)
+![image](https://user-images.githubusercontent.com/86316556/128219216-1c8e3666-54ad-4d05-a554-414205167508.png)
