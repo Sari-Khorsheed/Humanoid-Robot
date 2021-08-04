@@ -9,4 +9,6 @@ to serve the guests with food by having a plate this plate have on it the food. 
 design, and that's due to the difference of the functions. This design is made for serving the guests with the arabic coffee. The 
 robot head has been cutted to fit a screen on it to show the facial features. The lower body of the robot will set on a movable 
 base, this base will make the robot move. Also, in this repository you will find the STL file for the drawn parts and the STL file
-for the robot assembly.
+for the robot assembly. The next figure shows the robot four views.
+
+![image](https://user-images.githubusercontent.com/86316556/128218794-2031420d-a3f7-4142-857e-0c9b8f062e38.png)
